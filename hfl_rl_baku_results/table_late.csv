@@ -1,0 +1,4 @@
+Method,"Path Length, last 50% users (m)","Comfort Cost, last 50% users"
+Shortest Path (lambda=1),1959.7 ± 651.7,4.478 ± 1.303
+Centralized Comfort,1871.6 ± 651.7,3.211 ± 1.181
+HFL-RL (proposed),1872.2 ± 651.5,3.220 ± 1.197

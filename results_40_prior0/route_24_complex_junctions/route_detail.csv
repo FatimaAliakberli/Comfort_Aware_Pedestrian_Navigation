@@ -1,0 +1,4 @@
+,length_m,n_edges,comfort_cost,discomfort_exposure,hazard_edges_on_route,crosswalk_edges,highway_road_m,park_m,turns,detour_vs_shortest,mean_lambda_on_route
+Shortest Path (lambda=1),624.819,23.0,4.907,3065.79,4.0,0.0,14.766,142.118,8.0,1.0,1.0
+Centralized Comfort,638.687,22.0,2.621,1673.999,2.0,0.0,14.766,155.986,8.0,1.022,0.47
+HFL-RL (proposed),638.687,22.0,2.621,1673.999,2.0,0.0,14.766,155.986,8.0,1.022,0.458

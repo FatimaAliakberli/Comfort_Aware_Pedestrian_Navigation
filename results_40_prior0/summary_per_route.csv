@@ -1,0 +1,121 @@
+route_id,category,method,path_len,comfort,deviations,dev_avoided,final_lambda,completion
+1,Highway-arterial,Centralized Comfort,2563.198,8.199,103.8,48.2,0.485,1.0
+1,Highway-arterial,HFL-RL (proposed),2538.132,8.163,100.8,51.2,0.482,1.0
+1,Highway-arterial,Shortest Path (lambda=1),2594.92,8.129,152.0,0.0,1.0,1.0
+2,Highway-arterial,Centralized Comfort,2082.367,6.54,121.4,-1.4,0.482,1.0
+2,Highway-arterial,HFL-RL (proposed),2082.367,6.54,121.4,-1.4,0.477,1.0
+2,Highway-arterial,Shortest Path (lambda=1),1966.705,6.426,120.0,0.0,1.0,1.0
+3,Highway-arterial,Centralized Comfort,2088.755,8.682,123.2,68.8,0.474,1.0
+3,Highway-arterial,HFL-RL (proposed),2088.541,8.688,123.4,68.6,0.465,1.0
+3,Highway-arterial,Shortest Path (lambda=1),2181.983,8.194,192.0,0.0,1.0,1.0
+4,Highway-arterial,Centralized Comfort,1880.187,6.505,122.0,38.0,0.473,1.0
+4,Highway-arterial,HFL-RL (proposed),1880.091,6.504,121.8,38.2,0.466,1.0
+4,Highway-arterial,Shortest Path (lambda=1),1895.45,6.398,160.0,0.0,1.0,1.0
+5,Highway-arterial,Centralized Comfort,1704.491,5.811,138.4,21.6,0.47,1.0
+5,Highway-arterial,HFL-RL (proposed),1704.979,5.814,139.6,20.4,0.462,1.0
+5,Highway-arterial,Shortest Path (lambda=1),1723.555,5.834,160.0,0.0,1.0,1.0
+6,Highway-arterial,Centralized Comfort,2014.041,6.385,104.4,-16.4,0.487,1.0
+6,Highway-arterial,HFL-RL (proposed),2014.326,6.388,104.6,-16.6,0.482,1.0
+6,Highway-arterial,Shortest Path (lambda=1),1923.633,6.417,88.0,0.0,1.0,1.0
+7,Highway-arterial,Centralized Comfort,1998.542,9.121,86.6,41.4,0.509,1.0
+7,Highway-arterial,HFL-RL (proposed),1997.432,9.024,85.6,42.4,0.504,1.0
+7,Highway-arterial,Shortest Path (lambda=1),2032.606,9.143,128.0,0.0,1.0,1.0
+8,Highway-arterial,Centralized Comfort,1504.641,10.214,138.8,-2.8,0.495,1.0
+8,Highway-arterial,HFL-RL (proposed),1504.546,10.213,138.6,-2.6,0.481,1.0
+8,Highway-arterial,Shortest Path (lambda=1),1455.861,9.651,136.0,0.0,1.0,1.0
+9,Highway-arterial,Centralized Comfort,2088.981,8.969,108.6,3.4,0.515,1.0
+9,Highway-arterial,HFL-RL (proposed),2088.866,8.969,108.6,3.4,0.506,1.0
+9,Highway-arterial,Shortest Path (lambda=1),2019.365,9.452,112.0,0.0,1.0,1.0
+10,Highway-arterial,Centralized Comfort,1713.791,8.407,109.4,18.6,0.498,1.0
+10,Highway-arterial,HFL-RL (proposed),1714.424,8.405,109.6,18.4,0.489,1.0
+10,Highway-arterial,Shortest Path (lambda=1),1678.285,7.269,128.0,0.0,1.0,1.0
+11,Park,Centralized Comfort,1990.522,2.14,123.6,52.4,0.464,1.0
+11,Park,HFL-RL (proposed),1990.522,2.14,123.6,52.4,0.455,1.0
+11,Park,Shortest Path (lambda=1),2036.906,2.505,176.0,0.0,1.0,1.0
+12,Park,Centralized Comfort,1615.699,1.945,118.4,57.6,0.464,1.0
+12,Park,HFL-RL (proposed),1617.092,1.949,119.6,56.4,0.459,1.0
+12,Park,Shortest Path (lambda=1),1647.876,2.279,176.0,0.0,1.0,1.0
+13,Park,Centralized Comfort,1597.953,1.965,88.4,-0.4,0.474,1.0
+13,Park,HFL-RL (proposed),1599.037,1.972,89.2,-1.2,0.468,1.0
+13,Park,Shortest Path (lambda=1),1523.679,2.108,88.0,0.0,1.0,1.0
+14,Park,Centralized Comfort,1586.303,1.939,103.6,48.4,0.478,1.0
+14,Park,HFL-RL (proposed),1586.303,1.939,103.6,48.4,0.471,1.0
+14,Park,Shortest Path (lambda=1),1606.589,2.282,152.0,0.0,1.0,1.0
+15,Park,Centralized Comfort,1613.975,2.823,153.8,-33.8,0.466,1.0
+15,Park,HFL-RL (proposed),1614.174,2.825,154.0,-34.0,0.454,1.0
+15,Park,Shortest Path (lambda=1),1393.784,2.448,120.0,0.0,1.0,1.0
+16,Park,Centralized Comfort,1500.096,2.201,95.4,32.6,0.466,1.0
+16,Park,HFL-RL (proposed),1501.623,2.21,97.4,30.6,0.463,1.0
+16,Park,Shortest Path (lambda=1),1532.518,2.856,128.0,0.0,1.0,1.0
+17,Park,Centralized Comfort,1780.286,7.442,44.0,100.0,0.495,1.0
+17,Park,HFL-RL (proposed),1778.942,7.438,43.4,100.6,0.494,1.0
+17,Park,Shortest Path (lambda=1),1859.561,7.502,144.0,0.0,1.0,1.0
+18,Park,Centralized Comfort,1955.148,6.154,103.8,48.2,0.49,1.0
+18,Park,HFL-RL (proposed),1944.197,6.12,102.0,50.0,0.48,1.0
+18,Park,Shortest Path (lambda=1),2035.706,5.804,152.0,0.0,1.0,1.0
+19,Park,Centralized Comfort,1889.718,2.767,79.0,65.0,0.482,1.0
+19,Park,HFL-RL (proposed),1889.909,2.769,79.2,64.8,0.478,1.0
+19,Park,Shortest Path (lambda=1),1928.545,3.22,144.0,0.0,1.0,1.0
+20,Park,Centralized Comfort,1902.64,3.808,127.0,-7.0,0.479,1.0
+20,Park,HFL-RL (proposed),1902.679,3.809,127.2,-7.2,0.474,1.0
+20,Park,Shortest Path (lambda=1),1851.477,5.023,120.0,0.0,1.0,1.0
+21,Complex-junctions,Centralized Comfort,886.062,4.22,114.8,13.2,0.503,1.0
+21,Complex-junctions,HFL-RL (proposed),886.38,4.218,114.8,13.2,0.496,1.0
+21,Complex-junctions,Shortest Path (lambda=1),874.964,4.554,128.0,0.0,1.0,1.0
+22,Complex-junctions,Centralized Comfort,992.386,3.531,81.0,47.0,0.51,1.0
+22,Complex-junctions,HFL-RL (proposed),992.933,3.535,81.8,46.2,0.504,1.0
+22,Complex-junctions,Shortest Path (lambda=1),1043.326,3.803,128.0,0.0,1.0,1.0
+23,Complex-junctions,Centralized Comfort,1336.086,2.584,116.0,44.0,0.477,1.0
+23,Complex-junctions,HFL-RL (proposed),1336.009,2.584,116.0,44.0,0.472,1.0
+23,Complex-junctions,Shortest Path (lambda=1),1334.259,2.819,160.0,0.0,1.0,1.0
+24,Complex-junctions,Centralized Comfort,818.089,2.723,99.6,-3.6,0.478,1.0
+24,Complex-junctions,HFL-RL (proposed),818.089,2.723,99.6,-3.6,0.47,1.0
+24,Complex-junctions,Shortest Path (lambda=1),766.231,3.027,96.0,0.0,1.0,1.0
+25,Complex-junctions,Centralized Comfort,852.72,3.418,110.2,25.8,0.485,1.0
+25,Complex-junctions,HFL-RL (proposed),852.72,3.418,110.2,25.8,0.474,1.0
+25,Complex-junctions,Shortest Path (lambda=1),770.727,4.268,136.0,0.0,1.0,1.0
+26,Complex-junctions,Centralized Comfort,1519.391,2.16,71.8,104.2,0.477,1.0
+26,Complex-junctions,HFL-RL (proposed),1519.891,2.166,72.6,103.4,0.475,1.0
+26,Complex-junctions,Shortest Path (lambda=1),1537.572,2.496,176.0,0.0,1.0,1.0
+27,Complex-junctions,Centralized Comfort,635.79,2.476,69.2,82.8,0.487,1.0
+27,Complex-junctions,HFL-RL (proposed),635.624,2.479,69.2,82.8,0.484,1.0
+27,Complex-junctions,Shortest Path (lambda=1),653.545,4.765,152.0,0.0,1.0,1.0
+28,Complex-junctions,Centralized Comfort,1458.365,2.763,117.6,66.4,0.465,1.0
+28,Complex-junctions,HFL-RL (proposed),1459.545,2.774,118.6,65.4,0.46,1.0
+28,Complex-junctions,Shortest Path (lambda=1),1477.012,3.314,184.0,0.0,1.0,1.0
+29,Complex-junctions,Centralized Comfort,1038.596,6.822,102.2,49.8,0.5,1.0
+29,Complex-junctions,HFL-RL (proposed),1037.85,6.818,101.8,50.2,0.494,1.0
+29,Complex-junctions,Shortest Path (lambda=1),1001.361,6.571,152.0,0.0,1.0,1.0
+30,Complex-junctions,Centralized Comfort,1313.663,4.346,102.2,25.8,0.502,1.0
+30,Complex-junctions,HFL-RL (proposed),1313.765,4.349,102.2,25.8,0.496,1.0
+30,Complex-junctions,Shortest Path (lambda=1),1329.048,4.466,128.0,0.0,1.0,1.0
+31,Mixed,Centralized Comfort,1866.865,6.077,78.8,97.2,0.486,1.0
+31,Mixed,HFL-RL (proposed),1867.331,6.078,79.2,96.8,0.483,1.0
+31,Mixed,Shortest Path (lambda=1),1935.132,6.57,176.0,0.0,1.0,1.0
+32,Mixed,Centralized Comfort,1969.595,6.217,108.0,12.0,0.478,1.0
+32,Mixed,HFL-RL (proposed),1970.322,6.221,108.8,11.2,0.475,1.0
+32,Mixed,Shortest Path (lambda=1),2000.777,6.678,120.0,0.0,1.0,1.0
+33,Mixed,Centralized Comfort,1327.912,5.105,92.8,51.2,0.474,1.0
+33,Mixed,HFL-RL (proposed),1334.961,5.132,95.2,48.8,0.464,1.0
+33,Mixed,Shortest Path (lambda=1),1360.153,5.503,144.0,0.0,1.0,1.0
+34,Mixed,Centralized Comfort,1743.153,4.138,112.0,24.0,0.52,1.0
+34,Mixed,HFL-RL (proposed),1743.798,4.137,111.8,24.2,0.513,1.0
+34,Mixed,Shortest Path (lambda=1),1738.765,4.202,136.0,0.0,1.0,1.0
+35,Mixed,Centralized Comfort,1694.233,5.697,90.2,45.8,0.476,1.0
+35,Mixed,HFL-RL (proposed),1694.568,5.701,90.6,45.4,0.473,1.0
+35,Mixed,Shortest Path (lambda=1),1732.593,5.943,136.0,0.0,1.0,1.0
+36,Mixed,Centralized Comfort,1582.361,4.065,53.8,74.2,0.471,1.0
+36,Mixed,HFL-RL (proposed),1583.204,4.068,54.6,73.4,0.47,1.0
+36,Mixed,Shortest Path (lambda=1),1632.042,4.514,128.0,0.0,1.0,1.0
+37,Mixed,Centralized Comfort,1896.419,6.031,72.8,103.2,0.47,1.0
+37,Mixed,HFL-RL (proposed),1895.057,6.033,72.4,103.6,0.465,1.0
+37,Mixed,Shortest Path (lambda=1),2079.824,6.642,176.0,0.0,1.0,1.0
+38,Mixed,Centralized Comfort,1582.0,6.607,104.4,63.6,0.495,1.0
+38,Mixed,HFL-RL (proposed),1582.76,6.611,104.8,63.2,0.486,1.0
+38,Mixed,Shortest Path (lambda=1),1672.246,7.382,168.0,0.0,1.0,1.0
+39,Mixed,Centralized Comfort,1897.191,5.288,130.0,62.0,0.496,1.0
+39,Mixed,HFL-RL (proposed),1897.84,5.29,130.2,61.8,0.487,1.0
+39,Mixed,Shortest Path (lambda=1),1980.409,5.61,192.0,0.0,1.0,1.0
+40,Mixed,Centralized Comfort,2098.441,6.443,130.6,29.4,0.48,1.0
+40,Mixed,HFL-RL (proposed),2098.26,6.442,130.4,29.6,0.47,1.0
+40,Mixed,Shortest Path (lambda=1),2085.769,6.205,160.0,0.0,1.0,1.0
